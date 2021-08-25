@@ -1,0 +1,8 @@
+banana
+melancia
+morango
+laranja
+abacaxi
+groselia
+melao
+maca 
